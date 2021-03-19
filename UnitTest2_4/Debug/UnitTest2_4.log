@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest2_4.cpp
+D:\Student\oop2_4\oop2_4\Matrix.cpp(78): warning C4715: Matrix::operator==: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\Student\oop2_4\Debug\UnitTest2_4.lib и объект D:\Student\oop2_4\Debug\UnitTest2_4.exp
+  UnitTest2_4.vcxproj -> D:\Student\oop2_4\Debug\UnitTest2_4.dll

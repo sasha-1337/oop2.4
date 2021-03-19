@@ -1,0 +1,5 @@
+﻿  Matrix.cpp
+  oop2_4.cpp
+  Создание кода...
+D:\Student\oop2_4\oop2_4\Matrix.cpp(78): warning C4715: Matrix::operator==: значение возвращается не при всех путях выполнения
+  oop2_4.vcxproj -> D:\Student\oop2_4\Debug\oop2_4.exe
